@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeniseHck
 - 👀 I’m interested in using Earth Observation for agricultural and environmental monitoring
-- 🌱 I’m currently learning how to predict Soil Organic Carbon (SOC) content from Sentinel-2 bare soil reflectance maps
+- 🌱 I’m currently learning how to map Soil Organic Carbon (SOC) content from Sentinel-2 bare soil reflectance maps
 - 📫 Reach me at eedh@leeds.ac.uk
 
 <!---
