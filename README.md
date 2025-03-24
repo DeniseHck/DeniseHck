@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @DeniseHck
-- 👀 I use Earth Observation for agricultural and environmental monitoring.
-- 🌱 Currently investigating how to improve current maps of bare agricultural soil and use these to estimate Soil Organic Carbon (SOC) content from Sentinel-2 reflectance.
+- 👀 I use Earth Observation and spectroscopy for agricultural and environmental monitoring
+- 🌱 Currently investigating how to improve Soil Organic Carbon (SOC) content estimates over agricultural land using Sentinel-2 satellite reflectance.
 - 📫 Reach me at eedh@leeds.ac.uk
